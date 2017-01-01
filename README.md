@@ -3,7 +3,7 @@
 VUE 1.X高仿饿了么APP
 
 # 获取源码
-由于使用了stylus语法，请先安装stylus
+由于使用了stylus语法，请先安装stylus</br>
 npm install stylus -g
 ֮之后再执行
 npm install
