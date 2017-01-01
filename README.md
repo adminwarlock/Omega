@@ -1,11 +1,13 @@
 # Omega
-��
+Ω
+VUE 1.X高仿饿了么APP
 
-VUE 1.X�߷¶���ôAPP
-
-#��ȡԴ�����ִ��
+# 获取源码
+由于使用了stylus语法，请先安装stylus
+npm install stylus -g
+֮之后再执行
 npm install
-#ִ��Ԥ��
+# 执行预览
 npm run dev
 
 # elm
