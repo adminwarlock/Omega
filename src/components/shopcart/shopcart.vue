@@ -27,10 +27,11 @@
               type: Array,
               default () {
                   return [
-                    {
-                        price: 11,
-                        count: 1
-                    }
+                    // 模拟
+                    // {
+                    //     price: 11,
+                    //     count: 1
+                    // }
                   ];
               }
           },
