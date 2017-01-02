@@ -10,7 +10,6 @@ npm install stylus -g
 </br>
 >֮之后再执行
 
-</br>
 npm install
 # 编译预览
 npm run dev
