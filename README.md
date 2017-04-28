@@ -15,9 +15,8 @@ npm install
 npm run dev
 <br>
 # Demo展示
-<a href="http
-://chinanoob.xyz/vue" target="	
-_blank">GO</a>
+[GO](http://chinanoob.xyz/vue)
+<hr>
 ----------------华丽的分割线--------------
 # elm
 
