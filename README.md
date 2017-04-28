@@ -18,6 +18,7 @@ npm run dev
 [GO](http://chinanoob.xyz/vue)
 <hr>
 ----------------华丽的分割线--------------
+<br>
 # elm
 
 > this is elm app
